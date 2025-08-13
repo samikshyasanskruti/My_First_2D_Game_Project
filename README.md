@@ -77,5 +77,5 @@ Include main menu and pause menu
 Improve artwork and animations
 
 
-##Author
+## Author
 - Samikshya Sanskruti Swain
