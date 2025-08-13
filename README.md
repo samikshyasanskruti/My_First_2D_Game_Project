@@ -78,4 +78,4 @@ Improve artwork and animations
 
 
 ##Author
--Samikshya Sanskruti Swain
+- Samikshya Sanskruti Swain
